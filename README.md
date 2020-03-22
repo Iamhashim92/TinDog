@@ -1,2 +1,1 @@
-# iamhashim92-gmail.com
-tindog
+TinDog Starting Files
